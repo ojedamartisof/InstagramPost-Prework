@@ -1,0 +1,70 @@
+html, body {
+    height:100%;
+    margin:0;
+}
+
+body {
+    background: #0D0D0D;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;;
+}
+
+.container {
+    width: 800px;
+    height: 740px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #000000;
+    border: solid #000000;
+}
+
+.card {
+    width: 450px;
+    height: 600px;
+    background: white;
+    margin: 7% auto;
+}
+
+.row {
+    padding: 15px;
+    width: 100%;
+    font-size: 15px;
+}
+
+.column {
+    display: inline-block;
+}
+
+.fa-ellipsis-v {
+    margin-left: 260px;
+}
+
+.two {
+    margin-left: 8px;
+    width: 100px;
+}
+
+.name {
+    margin: 0px;
+}
+
+.bottom {
+    padding: 15px;
+    font-size: 15px;
+}
+
+.fa-bookmark {
+    float:right;
+}
+
+.far {
+    margin: 3px;
+}
+.img{
+    display:block;
+    margin:auto;
+    width: 300;
+    height: 300;
+}
